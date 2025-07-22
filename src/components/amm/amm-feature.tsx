@@ -3,8 +3,8 @@
 import { useWallet } from '@solana/wallet-adapter-react'
 import { WalletButton } from '../solana/solana-provider'
 import { ExplorerLink } from '../cluster/cluster-ui'
-import { useCounterProgram } from './counter-data-access'
-import { CounterCreate, CounterList } from './counter-ui'
+import { useCounterProgram } from './amm-data-access'
+import { CounterCreate, CounterList } from './amm-ui'
 import { AppHero } from '../app-hero'
 import { ellipsify } from '@/lib/utils'
 

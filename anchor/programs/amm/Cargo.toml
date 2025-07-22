@@ -1,0 +1,25 @@
+[package]
+name = "amm"
+version = "0.1.0"
+description = "Solana AMM with SPL Token and Token-2022 support"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "amm"
+
+[features]
+default = []
+cpi = ["no-entrypoint"]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+idl-build = ["anchor-lang/idl-build","anchor-spl/idl-build"]
+
+[dependencies]
+anchor-lang = "0.31.1"
+anchor-spl = "0.31.1"
+spl-token = "6.0.0"
+spl-token-2022 = "4.0.0"
+spl-associated-token-account = "4.0.0"
+
