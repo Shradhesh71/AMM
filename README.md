@@ -227,16 +227,12 @@ Please ensure all tests pass and follow the existing code style.
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Important Disclaimer
-
-This software is provided for educational and experimental purposes. While extensively tested, use at your own risk. Always conduct thorough security audits before deploying to mainnet with real funds. The contributors are not liable for any financial losses.
-
 ---
 
 <div align="center">
 
 **Built with ❤️ on Solana**
 
-[Website](https://your-website.com) • [Documentation](https://docs.your-website.com) • [Twitter](https://twitter.com/your-handle)
+[Website](https://www.itsmeshradhesh.tech/) • [Twitter](https://x.com/Shradeshjain835/)
 
 </div>
